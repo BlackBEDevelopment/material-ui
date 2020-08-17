@@ -43,7 +43,7 @@ HTML_MATERIAL;
                 $vendor_path.'MaterialAdminLTE/dist/css/custom.css'
             );
             array_push(
-                Admin::$baseJs,
+                Admin::$baseJs
                 //$vendor_path.'MaterialAdminLTE/dist/js/material.min.js',
                 //$vendor_path.'MaterialAdminLTE/dist/js/ripples.min.js'
             );
