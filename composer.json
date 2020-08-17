@@ -1,5 +1,5 @@
 {
-    "name": "blackbedev/material-ui",
+    "name": "blackbedev/material-ui-dev",
     "description": "material ui for laravel-admin",
     "type": "library",
     "keywords": ["laravel-admin", "extension"],
